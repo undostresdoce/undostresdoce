@@ -1,4 +1,7 @@
-<h3 align="center">Holi 👋, Soy Cami 💖♾</h3>
+<h3 align="center">Holi 👋, Soy Cami 💖♾ 
+  Estudiante de Front-End G6 en ONE | Estudiante de Desarrollo de aplicaciones Full Stack JS trainee </h3>
+
+<p> Actualmente me dedico a la gestión de RRSS -principalmente para emprendimientos-, marketing digital y creación de contenido de forma independiente. </p>
 
 ###
 
