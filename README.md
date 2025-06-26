@@ -1,7 +1,9 @@
 <h3 align="center">Holi 👋, Soy Cami 💖♾ 
-  Estudiante de Front-End G6 en ONE | Estudiante de Desarrollo de aplicaciones Full Stack JS trainee </h3>
+  Egresada de Front-End G6 en ONE & Desarrollo de aplicaciones Full Stack JS trainee TD by Desafío Latam
+  Estudiante Front-End trainee TD by UNAB & UX/UI by GOOGLE</h3>
 
-<p> Actualmente me dedico a la gestión de RRSS -principalmente para emprendimientos-, marketing digital y creación de contenido de forma independiente. </p>
+<p> Actualmente me dedico a la gestión de RRSS -principalmente para emprendimientos-, marketing digital y creación de contenido de forma independiente desde LVNO. Trabajo en dar la mejor experiencia a los
+clientes tanto presencial como telemáticamente desde mis oficios, aportando valor a quienes requieran de mis servicios. </p>
 
 ###
 
